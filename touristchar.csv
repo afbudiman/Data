@@ -1,0 +1,164 @@
+Survey_item,Detail,2014,2015,2016,2017,2018,2019
+Port of Entry,New Chitose,2.0,2.0,2.0,,2.0,1.0
+Port of Entry,Hakodate,,,,,,
+Port of Entry,Sendai,,,,,,
+Port of Entry,Haneda,58.0,180.0,225.0,257.0,382.0,383.0
+Port of Entry,Narita,421.0,283.0,232.0,230.0,342.0,378.0
+Port of Entry,Komatsu,,1.0,,,,
+Port of Entry,Mt.Fuji Shizuoka,,,,,,
+Port of Entry,Chubu,18.0,2.0,1.0,4.0,3.0,38.0
+Port of Entry,Kansai,212.0,153.0,156.0,138.0,215.0,179.0
+Port of Entry,Hiroshima,1.0,,,1.0,,1.0
+Port of Entry,Kanmon (Shimonoseki) Port,,,,,,
+Port of Entry,Takamatsu,,,,,,
+Port of Entry,Fukuoka,3.0,4.0,4.0,,,3.0
+Port of Entry,Hakata Port,,,,,,
+Port of Entry,Izuhara Port,,,,,,
+Port of Entry,Kagoshima,,,,,,
+Port of Entry,Naha,,,,,,1.0
+Port of Entry,Other,1.0,7.0,3.0,1.0,1.0,
+Port of Departure,New Chitose,,,1.0,,,
+Port of Departure,Hakodate,,,,,,
+Port of Departure,Sendai,,,,,,
+Port of Departure,Haneda,68.0,145.0,215.0,239.0,383.0,369.0
+Port of Departure,Narita,428.0,316.0,239.0,235.0,332.0,379.0
+Port of Departure,Komatsu,,,,,,
+Port of Departure,Mt.Fuji Shizuoka,,,,,,
+Port of Departure,Chubu,14.0,2.0,,1.0,,44.0
+Port of Departure,Kansai,205.0,168.0,167.0,156.0,230.0,192.0
+Port of Departure,Hiroshima,,,,,,
+Port of Departure,Kanmon (Shimonoseki) Port,,,,,,
+Port of Departure,Takamatsu,,,,,,
+Port of Departure,Fukuoka,3.0,1.0,1.0,,,
+Port of Departure,Hakata Port,,,,,,
+Port of Departure,Izuhara Port,,,,,,
+Port of Departure,Kagoshima,,,,,,
+Port of Departure,Naha,,,,,,
+Country/Region of Residence,South Korea,,,,,,
+Country/Region of Residence,Taiwan,,,,,,1.0
+Country/Region of Residence,Hong Kong,,1.0,,,,
+Country/Region of Residence,China,,,1.0,,1.0,
+Country/Region of Residence,Beijing,,,,,,
+Country/Region of Residence,Shanghai,,,1.0,,,
+Country/Region of Residence,Chongqing,,,,,,
+Country/Region of Residence,Tianjin,,,,,,
+Country/Region of Residence,Guangdong,,,,,,
+Country/Region of Residence,Shandong,,,,,1.0,
+Country/Region of Residence,Liaoning,,,,,,
+Country/Region of Residence,Zhejiang,,,,,,
+Country/Region of Residence,Jiangsu,,,,,,
+Country/Region of Residence,Sichuan,,,,,,
+Country/Region of Residence,Macau,,,,,,
+Country/Region of Residence,Hubei,,,,,,
+Country/Region of Residence,Fujian,,,,,,
+Country/Region of Residence,Shanxi,,,,,,
+Country/Region of Residence,Other,,,,,,
+Country/Region of Residence,Unidentified,,,,,,
+Country/Region of Residence,Thailand,,,,,,
+Country/Region of Residence,Singapore,5.0,3.0,5.0,2.0,4.0,4.0
+Country/Region of Residence,Malaysia,1.0,1.0,,,1.0,
+Country/Region of Residence,Indonesia,703.0,617.0,613.0,623.0,932.0,970.0
+Country/Region of Residence,Philippines,1.0,,,,,
+Country/Region of Residence,Vietnam,,,,,,
+Country/Region of Residence,India,,,,,,
+Country/Region of Residence,UK,,,,,,
+Country/Region of Residence,Germany,,,,,,1.0
+Country/Region of Residence,France,,,,,1.0,
+Country/Region of Residence,Italy,,,,,,
+Country/Region of Residence,Spain,,,,,,
+Country/Region of Residence,Russia,,,,,,
+Country/Region of Residence,United States,2.0,2.0,2.0,3.0,2.0,3.0
+Country/Region of Residence,Canada,1.0,,,,,
+Country/Region of Residence,Australia,4.0,6.0,2.0,2.0,4.0,3.0
+Country/Region of Residence,Other,1.0,2.0,,1.0,,2.0
+Length of Stay,up to 3 days,59.0,19.0,29.0,19.0,25.0,30.0
+Length of Stay,4~6 days,254.0,195.0,189.0,224.0,334.0,327.0
+Length of Stay,7~13 days,268.0,328.0,294.0,307.0,472.0,497.0
+Length of Stay,14~20 days,51.0,40.0,42.0,40.0,60.0,68.0
+Length of Stay,21~27 days,23.0,4.0,18.0,6.0,6.0,9.0
+Length of Stay,28~90 days,37.0,19.0,30.0,18.0,26.0,28.0
+Length of Stay,91 days or more (less than a year),26.0,27.0,21.0,17.0,22.0,25.0
+Sex/Age,Male Total,430.0,378.0,329.0,334.0,476.0,505.0
+Sex/Age,Male under 20,7.0,19.0,10.0,13.0,16.0,20.0
+Sex/Age,Male 20~29,100.0,115.0,81.0,82.0,132.0,139.0
+Sex/Age,Male 30~39,157.0,102.0,107.0,118.0,160.0,188.0
+Sex/Age,Male 40~49,105.0,81.0,79.0,77.0,111.0,112.0
+Sex/Age,Male 50~59,49.0,42.0,37.0,37.0,40.0,39.0
+Sex/Age,Male 60~69,10.0,13.0,11.0,7.0,13.0,7.0
+Sex/Age,Male 70 and over,2.0,6.0,4.0,,4.0,
+Sex/Age,Female Total,277.0,252.0,294.0,297.0,469.0,479.0
+Sex/Age,Female under 20,15.0,19.0,18.0,13.0,17.0,27.0
+Sex/Age,Female 20~29,83.0,85.0,110.0,107.0,163.0,178.0
+Sex/Age,Female 30~39,82.0,68.0,87.0,92.0,156.0,142.0
+Sex/Age,Female 40~49,56.0,44.0,48.0,62.0,86.0,68.0
+Sex/Age,Female 50~59,28.0,22.0,22.0,18.0,34.0,50.0
+Sex/Age,Female 60~69,11.0,12.0,7.0,5.0,12.0,13.0
+Sex/Age,Female 70 and over,2.0,2.0,2.0,,1.0,1.0
+Frequency of Visits to Japan ,1 time,335.0,316.0,322.0,333.0,497.0,495.0
+Frequency of Visits to Japan ,2 times,117.0,127.0,118.0,105.0,167.0,162.0
+Frequency of Visits to Japan ,3 times,75.0,62.0,56.0,56.0,83.0,114.0
+Frequency of Visits to Japan ,4 times,39.0,39.0,37.0,36.0,54.0,44.0
+Frequency of Visits to Japan ,5 times,36.0,21.0,16.0,22.0,45.0,44.0
+Frequency of Visits to Japan ,6~9 times,37.0,19.0,30.0,34.0,42.0,49.0
+Frequency of Visits to Japan ,10~19 times,54.0,26.0,29.0,37.0,33.0,50.0
+Frequency of Visits to Japan ,20 times or more,22.0,21.0,15.0,8.0,24.0,26.0
+Date of last visit to Japan,This is the first time,,,,,497.0,495.0
+Date of last visit to Japan,2 times or more,,,,,448.0,489.0
+Date of last visit to Japan,2 times or more Within the past 1 year,,,,,231.0,281.0
+Date of last visit to Japan,2 times or more Within the past 3 year,,,,,130.0,132.0
+Date of last visit to Japan,2 times or more Within the past 5 year,,,,,41.0,42.0
+Date of last visit to Japan,2 times or more Within the past 10 year,,,,,34.0,19.0
+Date of last visit to Japan,2 times or more More than 10 years ago,,,,,12.0,15.0
+Number of visiting times in the past 1 year,No visiting in the past 1 year,,,,,714.0,703.0
+Number of visiting times in the past 1 year,No visiting in the past 1 year 1 time,,,,,154.0,192.0
+Number of visiting times in the past 1 year,No visiting in the past 1 year 2 time,,,,,47.0,54.0
+Number of visiting times in the past 1 year,No visiting in the past 1 year 3~5 times,,,,,25.0,30.0
+Number of visiting times in the past 1 year,No visiting in the past 1 year 6~9 times,,,,,5.0,3.0
+Number of visiting times in the past 1 year,No visiting in the past 1 year 10 times or more,,,,,,2.0
+Members of your Party ,Just me,189.0,151.0,142.0,126.0,186.0,208.0
+Members of your Party ,Spouse/partner,47.0,48.0,46.0,83.0,114.0,104.0
+Members of your Party ,Family member(s),117.0,153.0,169.0,154.0,292.0,335.0
+Members of your Party ,Work colleague(s),259.0,136.0,141.0,149.0,156.0,133.0
+Members of your Party ,Friend(s),110.0,140.0,121.0,120.0,171.0,188.0
+Members of your Party ,Other,12.0,14.0,11.0,8.0,26.0,16.0
+Main Purpose of This Trip,Tourism/leisure,201.0,308.0,320.0,342.0,594.0,612.0
+Main Purpose of This Trip,Visiting family/friends,51.0,30.0,33.0,29.0,51.0,68.0
+Main Purpose of This Trip,Honeymoon,2.0,,1.0,4.0,6.0,7.0
+Main Purpose of This Trip,School-related trip,13.0,16.0,8.0,6.0,9.0,15.0
+Main Purpose of This Trip,Sport/watching sport,,,,1.0,2.0,1.0
+Main Purpose of This Trip,Event,6.0,,4.0,2.0,6.0,1.0
+Main Purpose of This Trip,Study,23.0,23.0,23.0,20.0,29.0,24.0
+Main Purpose of This Trip,Medical treatment/Medical check-up,3.0,,1.0,,,
+Main Purpose of This Trip,Incentive travel,16.0,7.0,4.0,7.0,14.0,7.0
+Main Purpose of This Trip,Exhibition/trade fair,11.0,1.0,5.0,2.0,9.0,11.0
+Main Purpose of This Trip,International conference,39.0,27.0,35.0,24.0,25.0,26.0
+Main Purpose of This Trip,Company meeting(held offsite),99.0,70.0,39.0,54.0,55.0,56.0
+Main Purpose of This Trip,Training,127.0,69.0,64.0,50.0,46.0,58.0
+Main Purpose of This Trip,Other business,78.0,64.0,74.0,78.0,88.0,86.0
+Main Purpose of This Trip,Transit,,6.0,8.0,8.0,5.0,9.0
+Main Purpose of This Trip,Other,47.0,11.0,4.0,4.0,6.0,3.0
+Types of accommodation in Japan,Hotel (western style),525.0,500.0,455.0,464.0,705.0,722.0
+Types of accommodation in Japan,Japanese-style inn,81.0,87.0,68.0,72.0,100.0,61.0
+Types of accommodation in Japan,My own pension or condominium,4.0,6.0,13.0,5.0,6.0,3.0
+Types of accommodation in Japan,School dormitory or company-owned accomodation facility,82.0,50.0,54.0,35.0,42.0,48.0
+Types of accommodation in Japan,Home of family/friends,67.0,43.0,53.0,47.0,78.0,103.0
+Types of accommodation in Japan,Youth hostel or guest house,,32.0,42.0,55.0,66.0,74.0
+Types of accommodation in Japan,Capsule hotel,,,,,12.0,15.0
+Types of accommodation in Japan,Paid residential accommodation (Airbnb/Zizaike/etc.),,,,,124.0,121.0
+Types of accommodation in Japan,Other,35.0,25.0,40.0,102.0,36.0,34.0
+Types of accommodation in Japan,I did not stay,,,,,,
+Travel arrangements,Group tour,138.0,127.0,77.0,81.0,101.0,83.0
+Travel arrangements,Package for individual travelers,39.0,44.0,54.0,46.0,73.0,69.0
+Travel arrangements,independent travel,541.0,461.0,492.0,504.0,771.0,832.0
+Means of travel arrangements,at a store (travel agency/airline company/etc.),,311.0,327.0,328.0,475.0,454.0
+Means of travel arrangements,through a website,,203.0,234.0,224.0,427.0,474.0
+Means of travel arrangements,by phone or other ways,,46.0,35.0,31.0,43.0,56.0
+Annual household income,Less than 5000k yen,,131.0,122.0,139.0,86.0,79.0
+Annual household income,5000k ~ less then 10000k yen,,17.0,14.0,9.0,8.0,1.0
+Annual household income,10000k ~ less then 20000k yen,,12.0,9.0,6.0,2.0,3.0
+Annual household income,20000k ~ less then 30000k yen,,2.0,1.0,,,
+Annual household income,More than 30000k yen,,2.0,2.0,3.0,,
+Annual household income,Unidentified,,,,,849.0,901.0
+Transport used for returning home,FSA (Full-Service Airline),,,,,851.0,966.0
+Transport used for returning home,LCC (Low-Cost Airline),,,,,94.0,18.0
+Transport used for returning home,Ships,,,,,,
